@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="14" height="14" alt="Hi" />
-<!-- Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
-=====================================================================================================================================
-<h2 align="center"><b>I'm Olawale Lawal</h2>
-<h4 align="center">Senior frontend developer</h4>
--------------------------
-  
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20" alt="Hi" />
 =====================================================================================================================================
 
-<h2 align="center"><b>I'm Olawale Lawal</h2>
-Senior frontend developer
+<h1 align="center"><b>I'm Olawale Lawal</h1>
+<h3 align="center">Senior frontend developer</h3>
+
 -------------------------
   
   
