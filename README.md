@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20" alt="Hi" />
+Hello & welcome <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="16" height="16" alt="Hi" />
 =====================================================================================================================================
 
 <h1 align="center"><b>I'm Olawale Lawal</h1>
