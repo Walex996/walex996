@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello & welcome <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Git" />
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="10" height="10" alt="Hi" />
 <!-- Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 =====================================================================================================================================
-<p align="center"><b>I'm Olawale Lawal</b></p>
-<p align="center">Senior frontend developer</p>
+<h2 align="center"><b>I'm Olawale Lawal</h2>
+<h4 align="center">Senior frontend developer</h4>
 -------------------------
 
 - 8 years of experience in frontend development
