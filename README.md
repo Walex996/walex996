@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 Hello & welcome <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Git" />
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Olawale
+<!-- Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 =====================================================================================================================================
-
-Senior frontend developer
+<p align="center"><b>I'm Olawale Lawal</b></p>
+<p align="center">Senior frontend developer</p>
 -------------------------
 
-\- 8 years of experience in frontend development
+- 8 years of experience in frontend development
 - Rich background in product design
 - Good knowledge of backend dev & database mgmt 
 - Bachelor of Technology Degree in Computer Science
