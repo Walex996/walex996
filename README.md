@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Good knowledge of backend dev & database mgmt 
 - Bachelor of Technology Degree in Computer Science
 - Great sense of product ownership 🤗
-
+  <br>
   
 - See my portfolio at [olawale-lawal.vercel.app](http://olawale-lawal.vercel.app/)
 - ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/olawale-lawal-792177139) or at [walex996@gmail.com](mailto:walex996@gmail.com)
