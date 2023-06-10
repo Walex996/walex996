@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 - Rich background in product design
 - Good knowledge of backend dev & database mgmt 
 - Bachelor of Technology Degree in Computer Science
-- Great sense of product ownership
+- Great sense of product ownership 🤗
 
-* 🖥️  See my portfolio at [olawale-lawal.vercel.app](http://olawale-lawal.vercel.app/)
-* ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/olawale-lawal-792177139) or at [walex996@gmail.com](mailto:walex996@gmail.com)
-* 🤝  I'm open to collaborating on web projects irrespective of its scale
-* ⚡  I want to see your digital product(s) thrive in the market. Let's work together to make it happen ✨
+- 🖥️  See my portfolio at [olawale-lawal.vercel.app](http://olawale-lawal.vercel.app/)
+- ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/olawale-lawal-792177139) or at [walex996@gmail.com](mailto:walex996@gmail.com)
+- 🤝  I'm open to collaborating on web projects irrespective of its scale
+- ⚡  I want to see your digital product(s) thrive in the market. Let's work together to make it happen ✨
 
-  <br><br>
+  <br>
   
 ### Skills
 
@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-  <br><br>
+  <br>
   
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/walex996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/21stmedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olawale-lawal-792177139" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5830970/wale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-  <br><br>
+  <br>
   
 ### Badges
 
