@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -------------------------
   
   
-<h1 align="center">I'm Olawale Lawal</h1>ss
-<h3 align="center">Senior frontend developer</h3>
+<h2 align="center">I'm Olawale Lawal</h2>
+<h4 align="center">Senior frontend developer</h4>
 
 -------------------------
   
