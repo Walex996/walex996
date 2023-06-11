@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Great sense of product ownership 🤗
 *
   
-- See my portfolio at [olawale-lawal.vercel.app](http://olawale-lawal.vercel.app/)
+- 🖥  See my portfolio at [olawale-lawal.vercel.app](http://olawale-lawal.vercel.app/)
 - ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/olawale-lawal-792177139) or at [walex996@gmail.com](mailto:walex996@gmail.com)
 - 🤝  I'm open to collaborating on web projects irrespective of its scale
 - ⚡  I want to see your digital product(s) thrive in the market. Let's work together to make it happen ✨
