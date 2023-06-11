@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -------------------------
   
   
-<h1 align="center" border="0">I'm Olawale Lawal</h1>
+<h1 align="center">I'm Olawale Lawal</h1>
 <h3 align="center">Senior frontend developer</h3>
 
 -------------------------
